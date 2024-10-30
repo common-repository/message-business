@@ -1,0 +1,151 @@
+{ 
+    "fields": [
+        {
+            "id": 0,
+            "name": "salutation",
+            "shortcode": "**MB_SALUTATION**",
+            "label": "Salutation",
+            "optional": false,
+            "position": 0
+        },
+        {
+            "id": 1,
+            "name": "firstname",
+            "shortcode": "**MB_FIRSTNAME**",
+            "label": "First name",
+            "optional": false,
+            "position": 1
+        },
+        {
+            "id": 2,
+            "name": "lastname",
+            "shortcode": "**MB_LASTNAME**",
+            "label": "Last name",
+            "optional": false,
+            "position": 2
+        },
+        {
+            "id": 3,
+            "name": "companyname",
+            "shortcode": "**MB_COMPANYNAME**",
+            "label": "Company name",
+            "optional": false,
+            "position": 3
+        },
+        {
+            "id": 4,
+            "name": "jobtitle",
+            "shortcode": "**MB_JOBTITLE**",
+            "label": "Job title",
+            "optional": false,
+            "position": 4
+        },
+        {
+            "id": 5,
+            "name": "email",
+            "shortcode": "**MB_EMAIL**",
+            "label": "Email",
+            "optional": false,
+            "position": 5,
+            "unicityKey": true
+        },
+        {
+            "id": 6,
+            "name": "mobile",
+            "shortcode": "**MB_MOBILE**",
+            "label": "Mobile",
+            "optional": false,
+            "position": 6
+        },
+        {
+            "id": 7,
+            "name": "phone",
+            "shortcode": "**MB_PHONE**",
+            "label": "Phone",
+            "optional": false,
+            "position": 7
+        },
+        {
+            "id": 8,
+            "name": "fax",
+            "shortcode": "**MB_FAX**",
+            "label": "Fax",
+            "optional": false,
+            "position": 8
+        },
+        {
+            "id": 9,
+            "name": "address1",
+            "shortcode": "**MB_ADDRESS1**",
+            "label": "Address 1",
+            "optional": false,
+            "position": 9
+        },
+        {
+            "id": 10,
+            "name": "address2",
+            "shortcode": "**MB_ADDRESS2**",
+            "label": "Address 2",
+            "optional": false,
+            "position": 10
+        },
+        {
+            "id": 11,
+            "name": "zipcode",
+            "shortcode": "**MB_ZIPCODE**",
+            "label": "Zip code",
+            "optional": false,
+            "position": 11
+        },
+        {
+            "id": 12,
+            "name": "city",
+            "shortcode": "**MB_CITY**",
+            "label": "City",
+            "optional": false,
+            "position": 12
+        },
+        {
+            "id": 13,
+            "name": "country",
+            "shortcode": "**MB_COUNTRY**",
+            "label": "Country",
+            "optional": false,
+            "position": 13
+        },
+        {
+            "id": 14,
+            "name": "type",
+            "shortcode": "**MB_TYPE**",
+            "label": "Type",
+            "optional": false,
+            "position": 14
+        },
+        {
+            "id": 15,
+            "name": "activity",
+            "shortcode": "**MB_ACTIVITY**",
+            "label": "Activity",
+            "optional": false,
+            "position": 15
+        },
+        {
+            "id": 16,
+            "name": "comments",
+            "shortcode": "**MB_COMMENTS**",
+            "label": "Comments",
+            "optional": false,
+            "position": 16
+        },
+        {
+            "id": 17,
+            "name": "source",
+            "shortcode": "**MB_SOURCE**",
+            "label": "Source",
+            "optional": false,
+            "position": 17,
+            "value": "",
+            "hidden": true
+        }
+    ]
+}

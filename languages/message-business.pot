@@ -1,0 +1,392 @@
+
+#: message-business-admin-form-settings.php:45, message-business-admin.php:215
+msgid "Settings Saved"
+msgstr ""
+
+#: message-business-admin-form-settings.php:49
+msgid "At least one field must be required"
+msgstr ""
+
+#: message-business-admin-form-settings.php:53
+msgid "Please fill the label(s)"
+msgstr ""
+
+#: message-business-newsletter-widget.php:72
+msgid "Title"
+msgstr ""
+
+#: message-business-admin.php:197
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: message-business-admin.php:205
+msgid "Please specify an account number."
+msgstr ""
+
+#: message-business-admin.php:208
+msgid "Please specify an API key."
+msgstr ""
+
+#: message-business-admin.php:233
+msgid "An error has occurred."
+msgstr ""
+
+#: message-business-admin.php:242
+msgid "Please fill the settings form to connect to Message Business API first."
+msgstr ""
+
+#: message-business-admin-form-settings.php:2
+msgid "Form settings"
+msgstr ""
+
+#: message-business-admin-form-settings.php:81
+msgid "Optional?"
+msgstr ""
+
+#: message-business-admin-form-settings.php:172
+msgid "Value"
+msgstr ""
+
+#: message-business-admin-form-settings.php:182
+msgid "Hidden?"
+msgstr ""
+
+#: message-business-admin-form-settings.php:202
+msgid "Save changes"
+msgstr ""
+
+#: message-business-admin-import-settings.php:25
+msgid "Import contacts between databases"
+msgstr ""
+
+#: message-business-admin-import-settings.php:33
+msgid "Each day, the module imports the data used to manage your marketing operations."
+msgstr ""
+
+#: message-business-admin-import-settings.php:38
+msgid "Import includes contact (email, name, ...), as well as customer data (Revenue, frequency)."
+msgstr ""
+
+#: message-business-admin-import-settings.php:44
+msgid "Import only contact details (email, name, ...)."
+msgstr ""
+
+#: message-business-admin-import-settings.php:52
+msgid "Save settings"
+msgstr ""
+
+#: message-business-admin-operations.php:2
+msgid "Operations for Wordpress"
+msgstr ""
+
+#: message-business-admin-operations.php:2
+msgid "Operations for WooCommerce"
+msgstr ""
+
+#: message-business-admin-settings.php:20
+msgid "WooCommerce settings"
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce-not-activated.php:8
+msgid "Please install and activate WooCommerce plugin!"
+msgstr ""
+
+#: message-business-admin-operations.php:6
+msgid "N°"
+msgstr ""
+
+#: message-business-admin-operations.php:7
+msgid "Name"
+msgstr ""
+
+#: message-business-admin-operations.php:8
+msgid "Date"
+msgstr ""
+
+#: message-business-admin-settings.php:42
+msgid "Account number"
+msgstr ""
+
+#: message-business-admin-operations.php:46
+msgid "Account API key"
+msgstr ""
+
+#: message-business-admin-operations.php:50
+msgid "Public module URL"
+msgstr ""
+
+#: message-business-admin-operations.php:81
+msgid "At your service"
+msgstr ""
+
+#: functions.php:35
+msgid "Subscribe"
+msgstr ""
+
+#: message-business.php:84
+msgid "Settings"
+msgstr ""
+
+#: message-business-widget.php:69
+msgid "Widget title"
+msgstr ""
+
+#: contact-attribute.php:51
+msgid "Invalid format"
+msgstr ""
+
+#: contact-attribute.php:57
+msgid "Please fill the required fields."
+msgstr ""
+
+#: contact-attribute.php:79
+msgid "The form has been submitted successfully."
+msgstr ""
+
+#: contact-attribute.php:82
+msgid "An error has occurred! Please try again."
+msgstr ""
+
+#: message-business-widget.js:87
+msgid "Error server!"
+msgstr ""
+
+#: jquery-validate.js
+msgid "This field is required."
+msgstr ""
+
+#: jquery-validate.js
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: includes/fields.json
+msgid "Label"
+msgstr ""
+
+#: includes/fields.json
+msgid "Salutation"
+msgstr ""
+
+#: includes/fields.json
+msgid "First name"
+msgstr ""
+
+#: includes/fields.json
+msgid "Last name"
+msgstr ""
+
+#: includes/fields.json
+msgid "Company name"
+msgstr ""
+
+#: includes/fields.json
+msgid "Job title"
+msgstr ""
+
+#: includes/fields.json
+msgid "Email"
+msgstr ""
+
+#: includes/fields.json
+msgid "Mobile"
+msgstr ""
+
+#: includes/fields.json
+msgid "Phone"
+msgstr ""
+
+#: includes/fields.json
+msgid "Fax"
+msgstr ""
+
+#: includes/fields.json
+msgid "Address 1"
+msgstr ""
+
+#: includes/fields.json
+msgid "Address 2"
+msgstr ""
+
+#: includes/fields.json
+msgid "Zip code"
+msgstr ""
+
+#: includes/fields.json
+msgid "City"
+msgstr ""
+
+#: includes/fields.json
+msgid "Country"
+msgstr ""
+
+#: includes/fields.json
+msgid "Comments"
+msgstr ""
+
+#: includes/fields.json
+msgid "Type"
+msgstr ""
+
+#: includes/fields.json
+msgid "Activity"
+msgstr ""
+
+#: includes/fields.json
+msgid "Source"
+msgstr ""
+
+#: admin/partials/message-business-admin-settings.php:45
+msgid "Please verify your Account number and Api key."
+msgstr ""
+
+#: admin/partials/message-business-admin-settings.php:97
+msgid "SMTP Configuration"
+msgstr ""
+
+#: admin/partials/message-business-admin-settings.php:145
+msgid "Please <a href="%s">contact us</a> if you need additionnal information on this module."
+msgstr ""
+
+#: admin/partials/message-business-admin-settings.php:149
+msgid "If you have not registered yet to Message Business, <a href="%s">create an account now ... It\'s free and without obligation !</a>"
+msgstr ""
+
+#: admin/partials/message-business-admin-settings.php:68
+msgid "Credentials of your account on Message Business"
+msgstr ""
+
+#: admin/partials/message-business-admin-settings.php:53
+msgid "Configuration steps"
+msgstr ""
+
+#: admin/partials/message-business-admin-form-settings.php:66
+msgid "Submit button text"
+msgstr ""
+
+#: admin/partials/message-business-admin-form-settings.php:89
+msgid "Choose an item and drag it here."
+msgstr ""
+
+#: widget/contact-attribute.php:101
+msgid "Please set your Account number and Api key to link your form to Message Business."
+msgstr ""
+
+#: widget/contact-attribute.php:94
+msgid "This email address is already registered."
+msgstr ""
+
+#: widget/contact-attribute.php:101
+msgid "Click here to set your Account number and Api key"
+msgstr ""
+
+#: admin/message-business-admin-settings.php:62
+msgid "If it has not been done, create a new Message Business account <a href="%s" target="_blank">here</a>."
+msgstr ""
+
+#: admin/message-business-admin-settings.php:63
+msgid "Generate a new API key on your Message Business account (More > Settings > Connectors, API) to get access to the Message Business API and fill the form below with your account number and API key."
+msgstr ""
+
+#: admin/message-business-admin-settings.php:64
+msgid "Configure your emailing SMTP with Message Business SMTP configuration, see below."
+msgstr ""
+
+#: admin/message-business-admin-settings.php:65
+msgid "<a href="%s">Edit your subscription form</a> by selecting the appropriate fields."
+msgstr ""
+
+#: admin/message-business-admin-settings.php:66
+msgid "<a href="%s">Publish the subscription form</a> on your web site structure."
+msgstr ""
+
+#: admin/message-business-admin-settings.php:109
+msgid "Please check <a href="%s" target="_blank">here</a> how to configure your SMTP settings."
+msgstr ""
+
+#: widget/js/message-business-widget.js:62
+msgid "Please enter a valid phone number."
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:20
+msgid "Import all your contacts to your Message Business account"
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:28
+msgid "Shop URL"
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:33
+msgid "Consumer key"
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:37
+msgid "Consumer secret"
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:43
+msgid "Last import"
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:56
+msgid "Last import duration"
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:65
+msgid "Import in progress"
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:75
+msgid "Next import"
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:79
+msgid "Not scheduled."
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:86
+msgid "Import my contacts every"
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:116
+msgid "hour"
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:118
+msgid "hours"
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:135
+msgid "Import my contacts"
+msgstr ""
+
+#: woocommerce/message-business-woocommerce.php:506
+msgid "Customers data have been successfully synchronized."
+msgstr ""
+
+#: woocommerce/message-business-woocommerce.php:503
+msgid "An error has occurred during the process. Please try again."
+msgstr ""
+
+#: woocommerce/message-business-woocommerce.php:485
+msgid "Please specify your shop url."
+msgstr ""
+
+#: woocommerce/message-business-woocommerce.php:488
+msgid "Please specify a consumer key."
+msgstr ""
+
+#: woocommerce/message-business-woocommerce.php:491
+msgid "Please specify a consumer secret."
+msgstr ""
+
+#: woocommerce/message-business-woocommerce.php:494
+msgid "Please select a valid frequency."
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:28
+msgid "To obtain a consumer key, go to your WooCommerce extension > Settings > API > keys and apps > Add key > Name your description > Change the permissions to "Read Write" > Generate API key."
+msgstr ""
+
+#: woocommerce/partials/message-business-woocommerce.php:37
+msgid "To obtain a consumer secret, go to your WooCommerce extension > Settings > API > keys and apps > Add key > Name your description > Change the permissions to "Read Write" > Generate API key."
+msgstr ""

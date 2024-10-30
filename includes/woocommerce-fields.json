@@ -1,0 +1,36 @@
+[{
+    "name": "[Woo] Chiffre d'Affaires Total Commandes",
+    "format": "Number|woo_orderstotal" 
+},
+{
+    "name": "[Woo] Date Dernier Panier Abandonné",
+    "format": "DateTime|woo_lastcancelledcartdate"
+},
+{
+    "name": "[Woo] Paniers Abandonnés",
+    "format": "ShortText|woo_cancelledcarts"
+},
+{
+    "name": "[Woo] Date Dernière Commande",
+    "format": "DateTime|woo_lastorderdate"
+},
+{
+    "name": "[Woo] Date Dernière Connexion Client",
+    "format": "DateTime|woo_lastconnection"
+},
+{
+    "name": "[Woo] Date Inscription Client",
+    "format": "DateTime|woo_dateadd"
+},
+{
+    "name": "[Woo] Date Première Commande",
+    "format": "DateTime|woo_firstorderdate"
+},
+{
+    "name": "[Woo] Montant Dernière Commande",
+    "format": "Number|woo_lastordertotal"
+},
+{
+    "name": "[Woo] Nombre Total des Commandes",
+    "format": "Number|woo_orderscount"
+}]

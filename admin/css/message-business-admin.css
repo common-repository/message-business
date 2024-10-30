@@ -1,0 +1,174 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+legend {
+    font-size: medium;
+    margin-bottom: 10px;
+}
+
+/** Start custom step list **/
+
+.custom-counter {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+  
+.custom-counter li {
+    counter-increment: step-counter;
+    margin-bottom: 10px;
+}
+
+.custom-counter li::before {
+    content: counter(step-counter);
+    margin-right: 5px;
+    font-size: 80%;
+    background-color: #00aaff;
+    color: white;
+    font-weight: bold;
+    padding: 3px 8px;
+    border-radius: 1px;
+}
+
+/** End custom step list **/
+
+/** Start dropzone **/
+
+#dragndroptext {
+    -webkit-align-self: center; /* Safari 7.0+ */
+    align-self: center;
+    text-align: center;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.dropzone {
+    float: left;
+    /* width: 600px; */
+    /* min-height: 600px; */
+    width: 40%;
+    /* max-width: 600px; */
+    height: 619px;
+    border: 2px dashed black;
+    overflow: auto;
+    padding: 1.5em;
+    margin-right: 20px;
+}
+
+.listItems {
+    float: left;
+    width: 25%;
+    margin-right: 20px;
+ }
+
+#dropzoneItems li {
+    display: inline-block;
+    margin-top: 5px;
+    min-width: 200px;
+    width: 100%;
+    /* max-width: 550px; */
+}
+
+#availableItems li {
+    min-width: 200px;
+    cursor: pointer;
+}
+
+#availableItems li.cancelled {
+    opacity: 0.4;
+}
+
+ul.items {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+.items li {
+    margin: 0 3px 3px 3px;
+    /* padding: 0.4em; */
+    /* padding-left: 1.5em; */
+}
+
+.items li .material-icons {
+    cursor: pointer;
+}
+
+.ui-sortable-placeholder {
+    height: 34px;
+    border: 1px dotted black;
+    background-color: #989898;
+    margin: 0;
+}
+
+.item-toggle {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    margin-top: -8px;
+  }
+
+.fieldholder {
+    background: #fff;
+    border: 1px solid #d8d8d8;
+}
+
+.fieldbar {
+    padding: 7px 10px;
+    font-weight: bold;
+    background: #e4e4e4;
+    cursor: move;
+    cursor: grab;
+    cursor: -moz-grab;
+    cursor: -webkit-grab;
+}
+
+.item-options {
+    float: right;
+    position: relative;
+}
+
+.field-content {
+    padding: 0.4em;
+    display: none;
+    width: 95%;
+}
+
+hr .mb-line {
+    visibility: visible;
+    height: 1px;
+    background: rgba(0,0,0,0.15);
+    margin: 10px 0 10px 0;
+}
+
+.right-block {
+    float: left;
+    background-color: #ffffff;
+    width:25%;
+    padding: 10px;
+}
+
+.dragged {
+    width: 100%;
+}
+
+/** RESPONSIVE DESIGN **/
+
+@media (max-width: 767px) {
+    .dropzone {
+        width: 90%;
+        margin-bottom: 20px;
+    }
+    .listItems {
+        width: 100%;
+        margin-bottom: 20px;        
+    }
+    .right-block {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
+/** END RESPONSIVE DESIGN **/

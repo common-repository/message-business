@@ -1,0 +1,69 @@
+.subscribe {
+    margin: 0 0 60px 0;
+    display: inline;
+}
+
+.subscribe input {
+    margin-bottom: 10px;
+}
+
+.emailupdatesinput {
+    width: 162px !important;
+    height: 38px !important;
+    border: 1px solid #000000 !important;
+    border-radius: 0 !important;
+    font-size: 14px;
+    font-style: italic;
+    color: #949494 !important;
+    padding: 0 10px 0 10px;
+    float: left;
+}
+
+.subscribesubmitbutton {
+    height: 38px !important;
+    border: none !important;
+    border-radius: 0 !important;
+    float: left;
+    font-size: 12px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.error {
+    color: red;
+    display: block;
+}
+
+.success {
+    color: green;
+    display: block;
+}
+
+.message-business-loading {
+    float: left;
+    display: none;
+    min-height: 16px;
+    background: url(../img/loader.gif) no-repeat center left;
+    font-style: italic;
+    color: #9f9f9f;
+    padding: 5px 5px 5px 30px;
+}
+
+/*form[name="message-business-newsletter-form"] {
+    display: none;
+}*/
+
+/** Internation Tel Input plugin style **/
+
+.iti-flag {background-image: url("../img/flags.png");}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+    .iti-flag {background-image: url("../img/flags@2x.png");}
+}
+
+.intl-tel-input {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+/** End International Tel Input plugin style **/
